@@ -1,0 +1,71 @@
+we are going to make an application form for the recruitment of new employees. i am going to tell you the actual information want on that forum to submit from the side of user. 
+1. name of post 
+2. department/institute/subject
+3. campus
+4. full name
+5. national id card no
+6. sex (Male/Female/other)
+7. date of birth
+8. father name
+9. address
+	present
+	permanent
+	Telephone No:
+	Resident:
+	Mobile NO.
+	WhatsApp No.
+	E-mail
+10. Applied for quota, if any(disable/minority/women)
+11. Domicile District
+12. nationality of
+	self
+	spouse
+13. Education Qualifications
+a) create a table for title "secondary school and intermediate or equivalent" which include	certificate obtained, institute attended, registration no., years attended from-to, division, percentage, marks obtained, total marks, major subject.	
+b) create a table for title "University" which include	"degree obtained, Name & place of university & college, registration no., years attended from-to, CGPA division/percentage, marks obtained, total marks, major subject.
+c) create a table for title "Post-Doctorate" which include "certificate/Diploma obtained, Name & place of institute, , years attended from-to, CGPA division/percentage, marks obtained, total marks, major subject/ specialization.
+14. Number of student guided(duly verified by the concerned Controller of examinations)
+create a table in which rows have title "M.Sc. or equilvalent, M.Sc. (Hon)/M.Phil, Ph.D" there would be two column first one title is "as major supervisor" second "as committee member"
+15. Distinction
+	a) Position/Medal/Award(Academic/Civil)
+	b) Professional awards (Govt./Institution/Society)
+	c) Sports (Intervarsity/National/International)
+	d) Extra Curricular
+16. Courses Taught(During last three years)
+create a table which include "Course no./title, year, independent, joint"
+17. research (give particulars of all the research completed)
+create a table which include "title of research, period from-to, professor, institution"
+18. Publications 
+a) list of research papers published in HEC recognized journals only (attach reprints) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, name of journal with volume and page No. , issn no., Category"
+b)  list of international research papers published in journals having impact factor (attach reprints) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, name of journal with volume and page No. , issn no., impact factor"
+c)  list of books(Text/Edited) bearing ISBN No. (attach title page & contents) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, isbn no., Name of publisher"
+d)  list of proceedings (attach title page & contents) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, Name of publisher"
+e)  list of manuals (attach title page & contents) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, Name of publisher"
+f)  list of monographs (attach title page & contents) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, Name of publisher"
+g) list of book chapters bearing isbn no. (attach title page & contents) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., authors, year, title, isbn no., Name of publisher"
+h) list of research projects completed as P.I other than promotion of research (attach title page) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., Project title, funding agency, amount, duration, as PI/Co-PI, Present status"
+i) list of research projects completed as Co-P.I other than promotion of research (attach title page) 
+(duly verified by the concerned oric office)
+create a table which include "S.No., Project title, funding agency, amount, duration, as PI/Co-PI, Present status"
+19. Foreign languages (extent of proficiency)
+create a table which include "language, reading, writing, spoken"
+20. membership of learned societies (Name and nature of membership)
+
+
+
